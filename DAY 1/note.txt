@@ -1,0 +1,43 @@
+- **Day 1:**
+    - Initialize Next.js project (`npx create-next-app@latest`)
+    - Install Tailwind CSS and shadcn/ui
+
+
+
+    Github syntax yang sering dipake
+    - git clone
+
+    - git push
+    - git pull
+    - git merge
+    - git add
+    - git commit -> buat save
+    - git checkout -b [nama branch] -> buat new branch
+    - git status
+    - -m _> basically message/detail suatu action, idk
+
+
+echo "# web-programming-training" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ShinyWise/web-programming-training.git
+git push -u origin main
+
+
+
+Urutan Project:
+1. Git clone 
+2. git checkout -b [branch] : main > dev > Login,Authen,CRUD, dll
+    - git checkout [branch]
+    - git branch
+3. git status
+4. git add .
+5. git status
+6. git commit -m 'add/fix/update/remove: add textBox login'
+7. git status
+8. git push origin Login 
+9. git status
+10. git add . , commit
+11. git push main/dev
