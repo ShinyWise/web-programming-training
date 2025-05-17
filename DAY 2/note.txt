@@ -1,0 +1,13 @@
+bikin new next.js project
+npx create-next-app@latest (optional, nama folder projectnya)
+
+
+STUDY CASE : Build a multi page portofolio page app router. 
+
+gw bikin simple
+- about page
+- contact page
+- experience page
+- home/index page
+
+
